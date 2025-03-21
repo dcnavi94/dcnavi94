@@ -77,20 +77,18 @@
 
     ![Terminal](https://img.shields.io/badge/Terminal-%23054020?style=for-the-badge&logo=gnu-bash&logoColor=white)
     ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
-  ![Modelado 3D](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
-  ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)  
 
+- *Hoobies**:
+
+    ![Impresion 3D](https://img.shields.io/badge/Impresión%203D-%2300BFFF.svg?style=for-the-badge&logoColor=white)
+    ![Vitral](https://img.shields.io/badge/Vitral-%239932CC.svg?style=for-the-badge&logoColor=white)
+  ![Instalacion de paneles Solares ](https://img.shields.io/badge/Paneles%20Solares-%2300A86B.svg?style=for-the-badge&logoColor=white)
 
 </p>
 
 <br>
 <br>
 
-- *Hoobies**:
-
-    ![Impresion 3D](https://img.shields.io/badge/Terminal-%23054020?style=for-the-badge&logo=gnu-bash&logoColor=white)
-    ![Vitral](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
-  ![Instalacion de paneles Solars ](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
 
 
 
