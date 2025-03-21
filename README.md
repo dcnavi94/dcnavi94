@@ -11,10 +11,8 @@
 
 
 	
-## <picture><img src = "![image](https://github.com/user-attachments/assets/8f037bf2-9693-4e26-876c-3632a969dc99)
-" width = 10px></picture> **About me**
+## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> **About me**
 
-<picture> <img align="right" src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/Right_Side.gif" width = 250px></picture>
 
 <br>
 
